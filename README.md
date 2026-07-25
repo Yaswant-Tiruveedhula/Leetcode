@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1518-water-bottles](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/1518-water-bottles) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Array
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Prefix Sum
 |  |
 | ------- |
