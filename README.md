@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [0682-baseball-game](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0724-find-pivot-index](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0724-find-pivot-index) |
 | [0948-bag-of-tokens](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0948-bag-of-tokens) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0258-add-digits) |
+| [0682-baseball-game](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0682-baseball-game) |
 | [1518-water-bottles](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/1518-water-bottles) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/1535-find-the-winner-of-an-array-game) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0682-baseball-game) |
 ## Sliding Window
 |  |
 | ------- |
