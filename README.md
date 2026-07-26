@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0844-backspace-string-compare](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0917-reverse-only-letters) |
 | [0948-bag-of-tokens](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0948-bag-of-tokens) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1518-water-bottles](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/1518-water-bottles) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/1535-find-the-winner-of-an-array-game) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0709-to-lower-case) |
+| [0844-backspace-string-compare](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0917-reverse-only-letters) |
 ## Number Theory
 |  |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0844-backspace-string-compare) |
 ## Sliding Window
 |  |
 | ------- |
