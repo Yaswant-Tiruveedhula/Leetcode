@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0682-baseball-game](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0682-baseball-game) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0697-degree-of-an-array](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0697-degree-of-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0844-backspace-string-compare) |
@@ -252,4 +255,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0148-sort-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
