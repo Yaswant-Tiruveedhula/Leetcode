@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1518-water-bottles](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/1518-water-bottles) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0917-reverse-only-letters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0011-container-with-most-water) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0948-bag-of-tokens](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0948-bag-of-tokens) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
