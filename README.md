@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0697-degree-of-an-array](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0697-degree-of-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Prefix Sum
 |  |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0383-ransom-note) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## String
 |  |
 | ------- |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0917-reverse-only-letters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Number Theory
 |  |
 | ------- |
@@ -220,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0948-bag-of-tokens](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/0948-bag-of-tokens) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
