@@ -18,8 +18,13 @@ class Solution {
     public int diameterOfBinaryTree(TreeNode root) {
         // int right=right(root.right);
         // int left=right(root.left);
-        right(root);
-        return diameter;
+        // right(root);
+        if(root==null){
+            return 0;
+        }
+        int dia=right(root.left)+right(root.right);
+        int future=Math.max(diameterOfBinaryTree(root.left),diameterOfBinaryTree(root.right));
+        return Math.max(dia,future);
     }
     public int right(TreeNode root){
         if(root==null){
