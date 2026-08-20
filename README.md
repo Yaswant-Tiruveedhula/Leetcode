@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1535-find-the-winner-of-an-array-game](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/1535-find-the-winner-of-an-array-game) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Yaswanth-Tiruveedhula/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Divide and Conquer
 |  |
 | ------- |
